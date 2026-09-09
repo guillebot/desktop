@@ -1,1 +1,1 @@
-../../../shell_integration/MacOSX/NextcloudIntegration/FileProviderExt/Services/AppProtocol.h
+../../../shell_integration/MacOSX/NextcloudFileProviderKit/Sources/NextcloudFileProviderXPC/include/AppProtocol.h

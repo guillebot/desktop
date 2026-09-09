@@ -1,1 +1,1 @@
-../../../shell_integration/MacOSX/NextcloudIntegration/FileProviderExt/Services/ClientCommunicationProtocol.h
+../../../shell_integration/MacOSX/NextcloudFileProviderKit/Sources/NextcloudFileProviderXPC/include/ClientCommunicationProtocol.h
