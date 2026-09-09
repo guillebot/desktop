@@ -358,6 +358,8 @@ IF( APPLE )
             # End of XPC protocol files
             macOS/fileprovider.h
             macOS/fileprovider_mac.mm
+            macOS/fileproviderdomainidentifierpolicy.h
+            macOS/fileproviderdomainidentifierpolicy.cpp
             macOS/fileproviderdomainmanager.h
             macOS/fileproviderdomainmanager.mm
             macOS/fileprovidereditlocallyjob.h
